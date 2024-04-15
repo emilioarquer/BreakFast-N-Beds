@@ -1,0 +1,48 @@
+body{
+	background-color: rgb(117, 115, 110);
+	margin:0;
+	padding:0;
+	font-family:Arial;
+	min-height: 100vh;
+	align-items:center;
+	justify-content: center;
+	
+}
+
+header {
+	background-color: rgb(154, 156, 138);
+	color: #333;
+	text-align: center;
+	padding: 1em;
+}
+
+p {
+	font-family: Arial;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-family: Times;
+}
+
+image {
+	display: center;
+	width:100%;
+	height:auto;
+	margin:auto;
+
+}
+
+
+#video {
+	text-align:center;
+	margin-bottom: 20px;
+}
+
+footer {
+	background-color: gray;
+	color: white;
+	text-align: center;
+	padding:0.1px;
+}	
